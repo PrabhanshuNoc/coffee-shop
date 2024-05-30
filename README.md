@@ -16,9 +16,9 @@ Welcome to the Coffee Shop Frontend Project! This project is a simple website fo
 ## Tech Stack
 
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 JavaScript
 
