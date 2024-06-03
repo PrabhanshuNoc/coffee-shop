@@ -40,5 +40,5 @@ cd coffee-shop
 
 ## Contributing
 
-Contributions to this project are welcome! If you have suggestions for improvements or would like to report a bug, please open an issue on the GitHub repository. Pull requests are also encouraged.
+Contributions to this project are welcome! If you have suggestions for improvements or would like to report a bug, please open an issue on the GitHub repository. 
 
