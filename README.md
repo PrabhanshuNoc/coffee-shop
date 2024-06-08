@@ -20,7 +20,7 @@ HTML
 
 CSS
 
-JavaScript
+JavaScript ES6
 
 ## Deployment
 
